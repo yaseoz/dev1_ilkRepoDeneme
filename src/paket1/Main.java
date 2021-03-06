@@ -6,5 +6,7 @@ public class Main {
 	// write your code here
 	    // selam..........
         //some updates accured
+	    
+	// deneme 2
     }
 }
