@@ -8,6 +8,8 @@ public class DenemeD {
 
         System.out.println();
 
+        System.out.println("Kaan ile degisiklik");
+
     }
 
 }
