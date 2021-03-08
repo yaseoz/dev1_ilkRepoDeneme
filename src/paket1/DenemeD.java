@@ -6,10 +6,6 @@ public class DenemeD {
 
         System.out.println();
 
-        System.out.println();
-
-        System.out.println("teminale deneme");
-
     }
 
 }
